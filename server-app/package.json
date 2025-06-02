@@ -1,0 +1,26 @@
+{
+  "name": "url-shortner-api",
+  "version": "1.0.0",
+  "description": "This project contains url shortner apis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandankumarbarnwal/url-shortner-mern.git"
+  },
+  "author": "Chandan Kumar Barnwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandankumarbarnwal/url-shortner-mern/issues"
+  },
+  "homepage": "https://github.com/chandankumarbarnwal/url-shortner-mern#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "nanoid": "^3.0.0"
+  }
+}
